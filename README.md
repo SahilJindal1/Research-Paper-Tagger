@@ -4,7 +4,7 @@ This repository uses Python 3.9.7
 
 ### Dataset:
 
-The dataset can be found [here](https://github.com/arbaazQureshi/research_paper_tagger/tree/main/Data).
+The dataset can be found [here](https://github.com/SahilJindal1/Research-Paper-Tagger/tree/main/Data).
 
 The dataset split which was used in our project is can be accessed from the [Splits](https://github.com/arbaazQureshi/research_paper_tagger/tree/main/Data/Splits) folder
 
